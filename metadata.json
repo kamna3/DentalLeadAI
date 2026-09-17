@@ -1,0 +1,6 @@
+{
+  "name": "DentalLead AI",
+  "description": "AI-powered patient lead recovery and appointment booking platform for dental clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
